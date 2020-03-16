@@ -20,13 +20,6 @@ PRODUCT_PACKAGES += \
     Purple \
     Red \
     Teal \
-    UserOne \
-    UserTwo \
-    UserThree \
-    UserFour \
-    UserFive \
-    UserSix \
-    UserSeven \
     Yellow \
     White
 
