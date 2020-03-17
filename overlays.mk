@@ -16,13 +16,6 @@ PRODUCT_PACKAGES += \
     EmptyOverlay \
     MatchmakerOverlay
 
-# NavigationBar Gestural Mode No Pill Overlays
-PRODUCT_PACKAGES += \
-    NavBarGesturalNoPillOverlay \
-    NavBarGesturalNarrowBackNoPillOverlay \
-    NavBarGesturalWideBackNoPillOverlay \
-    NavBarGesturalExtraWideBackNoPillOverlay
-
 # Accents
 include vendor/overlay/accents.mk
 
