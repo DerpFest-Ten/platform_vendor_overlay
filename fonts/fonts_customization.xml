@@ -7,6 +7,7 @@
         <font weight="700" style="normal">GoogleSans-Bold.ttf</font>
         <font weight="700" style="italic">GoogleSans-BoldItalic.ttf</font>
     </family>
+    <alias name="google-sans-regular" to="googlesans" weight="400" />
     <alias name="google-sans-medium" to="google-sans" weight="500" />
     <alias name="google-sans-semi-bold" to="google-sans" weight="600" />
     <alias name="google-sans-bold" to="google-sans" weight="700" />
@@ -210,7 +211,7 @@
         <font weight="700" style="normal">FiraSans-Bold.ttf</font>
         <font weight="700" style="italic">FiraSans-BoldItalic.ttf</font>
     </family>
-
+    <alias name="firasans-regular" to="firasans" weight="400" />
     <alias name="firasans-medium" to="firasans" weight="500" />
     <alias name="firasans-semi-bold" to="firasans" weight="600" />
     <alias name="firasans-bold" to="firasans" weight="700" />
@@ -362,6 +363,7 @@
     <family customizationType="new-named-family" name="ubuntu">
         <font weight="400" style="normal">Ubuntu.ttf</font>
     </family>
+    <alias name="ubuntu-regular" to="ubuntu" weight="400" />
     <alias name="ubuntu-medium" to="ubuntu" weight="500" />
     <alias name="ubuntu-semi-bold" to="ubuntu" weight="600" />
     <alias name="ubuntu-bold" to="ubuntu" weight="700" />
