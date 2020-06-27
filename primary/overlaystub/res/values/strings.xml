@@ -21,21 +21,21 @@
     <!-- DEFAULT VALUES HAHA YES, maybe switch to an actual overlay later? -->
     <string name="theme_name_default">Default</string>
     <string name="theme_title_default">@string/theme_name_default</string>
-    <string name="theme_wallpaper_title_default">Default AOSiP Wallpaper</string>
+    <string name="theme_wallpaper_title_default">Default DerpFest Wallpaper</string>
     <string name="theme_wallpaper_attribution_default">Meh</string>
 
     <!-- Values to declare accents, there aren't themes. -->
-    <string name="theme_name_kronicgreen">KronicGreen</string>
-    <string name="theme_title_kronicgreen">@string/theme_name_kronicgreen</string>
-    <string name="theme_overlay_color_kronicgreen">com.accents.aospagreen</string>
-    <string name="theme_overlay_font_kronicgreen">com.android.theme.font.googlesans</string>
-    <string name="theme_overlay_primary_kronicgreen">com.android.theme.color.primary.black</string>
-    <string name="theme_overlay_icon_android_kronicgreen">com.android.theme.icon_pack.circular.android</string>
-    <string name="theme_overlay_icon_launcher_kronicgreen">com.android.theme.icon_pack.circular.launcher</string>
-    <string name="theme_overlay_icon_settings_kronicgreen">com.android.theme.icon_pack.circular.settings</string>
-    <string name="theme_overlay_icon_sysui_kronicgreen">com.android.theme.icon_pack.circular.systemui</string>
-    <string name="theme_overlay_shape_kronicgreen">com.android.theme.icon.squircle</string>
-    <string name="theme_wallpaper_title_kronicgreen">Kronic Bomb</string>
-    <string name="theme_wallpaper_attribution_kronicgreen">AOSiP</string>
+    <string name="theme_name_derpred">DerpFest Red</string>
+    <string name="theme_title_derpred">@string/theme_name_derpred</string>
+    <string name="theme_overlay_color_derpred">com.accents.cocacolared</string>
+    <string name="theme_overlay_font_derpred">com.android.theme.font.firasans</string>
+    <string name="theme_overlay_primary_derpred">com.android.theme.color.primary.black</string>
+    <string name="theme_overlay_icon_android_derpred">com.android.theme.icon_pack.circular.android</string>
+    <string name="theme_overlay_icon_launcher_derpred">com.android.theme.icon_pack.circular.launcher</string>
+    <string name="theme_overlay_icon_settings_derpred">com.android.theme.icon_pack.circular.settings</string>
+    <string name="theme_overlay_icon_sysui_derpred">com.android.theme.icon_pack.circular.systemui</string>
+    <string name="theme_overlay_shape_derpred">com.android.theme.icon.squircle</string>
+    <string name="theme_wallpaper_title_derpred">Bleeding Lifeform</string>
+    <string name="theme_wallpaper_attribution_derpred">Hampus Olsson</string>
 
 </resources>
