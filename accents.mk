@@ -45,3 +45,15 @@ PRODUCT_PACKAGES += \
     TwitterBlue \
     XboxGreen \
     XiaomiOrange
+
+# Moar Accents
+PRODUCT_PACKAGES += \
+    AtlantisGreen \
+    AzureRadiance \
+    ElectricViolet \
+    FiBlue \
+    MarsOrange \
+    NovaYellow \
+    PersianRed \
+    SlateSpruce \
+    TorchPink
