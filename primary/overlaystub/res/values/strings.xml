@@ -27,14 +27,14 @@
     <!-- Values to declare accents, there aren't themes. -->
     <string name="theme_name_derpred">DerpFest Red</string>
     <string name="theme_title_derpred">@string/theme_name_derpred</string>
-    <string name="theme_overlay_color_derpred">com.accents.cocacolared</string>
+    <string name="theme_overlay_color_derpred">com.accents.persianred</string>
     <string name="theme_overlay_font_derpred">com.android.theme.font.firasans</string>
-    <string name="theme_overlay_primary_derpred">com.android.theme.color.primary.black</string>
+    <string name="theme_overlay_primary_derpred">com.android.theme.color.primary.ethereal</string>
     <string name="theme_overlay_icon_android_derpred">com.android.theme.icon_pack.circular.android</string>
     <string name="theme_overlay_icon_launcher_derpred">com.android.theme.icon_pack.circular.launcher</string>
     <string name="theme_overlay_icon_settings_derpred">com.android.theme.icon_pack.circular.settings</string>
     <string name="theme_overlay_icon_sysui_derpred">com.android.theme.icon_pack.circular.systemui</string>
-    <string name="theme_overlay_shape_derpred">com.android.theme.icon.squircle</string>
+    <string name="theme_overlay_shape_derpred">com.android.theme.icon.pebble</string>
     <string name="theme_wallpaper_title_derpred">Bleeding Lifeform</string>
     <string name="theme_wallpaper_attribution_derpred">Hampus Olsson</string>
 
