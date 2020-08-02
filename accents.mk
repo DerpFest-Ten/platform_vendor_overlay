@@ -1,7 +1,6 @@
 # Accents
 PRODUCT_PACKAGES += \
     Amber \
-    Black \
     Blue \
     BlueGrey \
     Brown \
@@ -20,8 +19,7 @@ PRODUCT_PACKAGES += \
     Purple \
     Red \
     Teal \
-    Yellow \
-    White
+    Yellow
 
 # Brand Accents
 PRODUCT_PACKAGES += \
